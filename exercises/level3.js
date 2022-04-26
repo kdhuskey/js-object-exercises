@@ -39,7 +39,9 @@ const exampleProductArray = [
  * @returns {number}
  */
 function level3exercise1(products) {
-
+for (i = 0; i < products.length; i ++){
+  return products[0]['price']
+}
 }
 
 /**
